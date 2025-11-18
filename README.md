@@ -12,3 +12,8 @@ Se tiene disponible los siguientes tipos de cambio:
 6. Peso colombiano => Dólar
 
    
+#Forma de uso
+Paso 1. Se elige el tipo de cambio
+Paso 2. Se escribe el monto a cambiar.
+Paso 3. Se ve el cambio.
+Paso 4. Si desea convertir una nueva cifra o moneda puede elegir.
